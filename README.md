@@ -27,3 +27,8 @@ Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-marvel/`
 - GET -> Hero DC -> `/herois-dc`
 
 Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-dc/`
+
+
+### Documentation
+
+- Swagger UI -> `https://api-rest-spring-boot-heros.herokuapp.com/swagger-ui.html`
