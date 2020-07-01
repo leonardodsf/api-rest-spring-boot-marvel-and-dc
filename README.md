@@ -20,14 +20,10 @@
 
 ### Methods
 
-- GET -> Hero Marvel
-
-`/herois-marvel`
+- GET -> Hero Marvel -> `/herois-marvel`
 
 Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-marvel/`
 
-- GET -> Hero DC
+- GET -> Hero DC -> `/herois-dc`
 
-`/herois-marvel`
-
-Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-marvel/`
+Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-dc/`
