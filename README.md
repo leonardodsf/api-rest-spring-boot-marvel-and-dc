@@ -13,3 +13,17 @@
   - Spring Boot Web Services
   - Swagger Documentation and UI
 
+
+### Methods
+
+- GET -> Hero Marvel
+
+`/herois-marvel`
+
+Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-marvel/`
+
+- GET -> Hero DC
+
+`/herois-marvel`
+
+Ex: `https://api-rest-spring-boot-heros.herokuapp.com/herois-marvel/`
